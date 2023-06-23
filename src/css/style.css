@@ -1,0 +1,12 @@
+#wrapper
+{
+    text-align: center;
+}
+.wrapper_dropdown{
+    margin : 30px;
+}
+table  ,tr ,th,td{
+    text-align: center;
+    border: 1px solid black;
+    margin:30px;
+}
